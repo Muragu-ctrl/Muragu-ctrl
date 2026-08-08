@@ -20,6 +20,8 @@ Passionate about cybersecurity and system programming. Currently expanding my sk
 
 ## 📜 Certifications
 - [Introduction to Cybersecurity](https://www.credly.com/badges/b5ee526a-ec10-4707-92f3-6276d2d0e417/public_url) - Cisco
+- [Networking Basics](https://www.credly.com/badges/66d6c68e-5fd7-4a2f-9724-76d716242371/public_url) - Cisco
+- [Endpoint Security](https://www.credly.com/badges/43666bfb-8c55-4953-aaad-0e0ee649b9e5/public_url) - Cisco
 
 ## 🔧 Skills & Technologies
  Threat Detection |
